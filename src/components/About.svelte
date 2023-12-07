@@ -36,7 +36,7 @@
 				</h2>
 				<p class="pt-8 text-gray-600 text-lg mx-auto">
 					Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec lacinia metus ut velit
-					congue, nec imperdiet arcu sollicitudin. Sed placerat dolor tortor.
+					congue, nec imperdiet arcu sollicitudin.
 				</p>
 				<div class="pt-8">
 					<a
