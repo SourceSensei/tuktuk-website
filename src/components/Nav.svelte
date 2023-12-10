@@ -1,16 +1,16 @@
 <header
-	class="flex flex-wrap sm:justify-start sm:flex-nowrap z-50 w-full bg-white text-sm py-4 dark:bg-gray-800"
+	class="flex flex-wrap sm:justify-start sm:flex-nowrap w-full text-sm py-4 text-white z-10"
 >
 	<nav
 		class="max-w-[85rem] w-full mx-auto px-4 sm:flex sm:items-center sm:justify-between"
 		aria-label="Global"
 	>
 		<div class="flex items-center justify-between">
-			<a class="flex-none text-xl font-semibold dark:text-white" href="#">Brand</a>
+			<a class="flex-none text-xl font-semibold text-slate-100" href="#">Brand</a>
 			<div class="sm:hidden">
 				<button
 					type="button"
-					class="hs-collapse-toggle p-2 inline-flex justify-center items-center gap-x-2 rounded-lg border border-gray-200 bg-white text-gray-800 shadow-sm hover:bg-gray-50 disabled:opacity-50 disabled:pointer-events-none dark:bg-transparent dark:border-gray-700 dark:text-white dark:hover:bg-white/10 dark:focus:outline-none dark:focus:ring-1 dark:focus:ring-gray-600"
+					class="hs-collapse-toggle p-2 inline-flex justify-center items-center gap-x-2 rounded-lg border border-gray-200 bg-white shadow-sm hover:bg-gray-50 disabled:opacity-50 disabled:pointer-events-none dark:bg-transparent dark:border-gray-700 text-slate-100 dark:hover:bg-white/10 dark:focus:outline-none dark:focus:ring-1 dark:focus:ring-gray-600"
 					data-hs-collapse="#navbar-collapse-with-animation"
 					aria-controls="navbar-collapse-with-animation"
 					aria-label="Toggle navigation"
@@ -56,20 +56,20 @@
 				class="flex flex-col gap-5 mt-5 sm:flex-row sm:items-center sm:justify-end sm:mt-0 sm:ps-5"
 			>
 				<a
-					class="font-medium text-blue-500 dark:focus:outline-none dark:focus:ring-1 dark:focus:ring-gray-600"
+					class="font-medium text-slate-100 dark:focus:outline-none dark:focus:ring-1 dark:focus:ring-gray-600"
 					href="#"
 					aria-current="page">Landing</a
 				>
 				<a
-					class="font-medium text-gray-600 hover:text-gray-400 dark:text-gray-400 dark:hover:text-gray-500 dark:focus:outline-none dark:focus:ring-1 dark:focus:ring-gray-600"
+					class="font-medium text-slate-100 dark:focus:outline-none dark:focus:ring-1 dark:focus:ring-gray-600"
 					href="#">Account</a
 				>
 				<a
-					class="font-medium text-gray-600 hover:text-gray-400 dark:text-gray-400 dark:hover:text-gray-500 dark:focus:outline-none dark:focus:ring-1 dark:focus:ring-gray-600"
+					class="font-medium text-slate-100 dark:focus:outline-none dark:focus:ring-1 dark:focus:ring-gray-600"
 					href="#">Work</a
 				>
 				<a
-					class="font-medium text-gray-600 hover:text-gray-400 dark:text-gray-400 dark:hover:text-gray-500 dark:focus:outline-none dark:focus:ring-1 dark:focus:ring-gray-600"
+					class="font-medium text-slate-100 dark:focus:outline-none dark:focus:ring-1 dark:focus:ring-gray-600"
 					href="#">Blog</a
 				>
 			</div>

@@ -29,6 +29,7 @@
 	},
 	"type": "module",
 	"dependencies": {
+		"@preline/carousel": "^2.0.1",
 		"preline": "^2.0.2"
 	}
 }

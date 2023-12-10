@@ -5,8 +5,27 @@
 		<link rel="icon" href="%sveltekit.assets%/favicon.png" />
 		<meta name="viewport" content="width=device-width, initial-scale=1" />
 		%sveltekit.head%
+		<style>
+			body {
+				position: relative;
+			}
+
+			body::before {
+				content: '';
+				position: absolute;
+				top: 0;
+				right: 0;
+				bottom: 0;
+				left: 0;
+				background: rgba(0, 0, 0, 0.15);
+				pointer-events: none;
+			}
+		</style>
 	</head>
-	<body data-sveltekit-preload-data="hover">
+	<body
+		data-sveltekit-preload-data="hover"
+		class="bg-gradient-to-r from-purple-700 to-blue-600 via-purple-500"
+	>
 		<div style="display: contents">%sveltekit.body%</div>
 		<script src="node_modules/preline/preline.js"></script>
 	</body>

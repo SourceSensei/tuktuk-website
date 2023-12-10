@@ -1,4 +1,4 @@
-<footer class="px-6 py-20 bg-indigo-100">
+<footer class="px-6 py-20">
 	<div class="container mx-auto">
 		<div class="grid grid-flow-row md:grid-cols-3 lg:grid-cols-2">
 			<div class="grid grid-cols-2 md:block">
@@ -86,28 +86,28 @@
 					<nav class="pt-6 font-semibold text-sm">
 						<ul>
 							<li class="pt-4">
-								<a href="#" class="group relative"
+								<a href="#" class="group relative text-white"
 									><span class="z-10 hover:text-black relative">About us</span><span
 										class="absolute h-2 bg-indigo-200 left-0 bottom-0 w-0 group-hover:w-full transition-all duration-200"
 									></span></a
 								>
 							</li>
 							<li class="pt-4">
-								<a href="#" class="group relative"
+								<a href="#" class="group relative text-white"
 									><span class="z-10 hover:text-black relative">Careers</span><span
 										class="absolute h-2 bg-indigo-200 left-0 bottom-0 w-0 group-hover:w-full transition-all duration-200"
 									></span></a
 								>
 							</li>
 							<li class="pt-4">
-								<a href="#" class="group relative"
+								<a href="#" class="group relative text-white"
 									><span class="z-10 hover:text-black relative">Terms &amp; Conditions</span><span
 										class="absolute h-2 bg-indigo-200 left-0 bottom-0 w-0 group-hover:w-full transition-all duration-200"
 									></span></a
 								>
 							</li>
 							<li class="pt-4">
-								<a href="#" class="group relative"
+								<a href="#" class="group relative text-white"
 									><span class="z-10 hover:text-black relative">Privacy</span><span
 										class="absolute h-2 bg-indigo-200 left-0 bottom-0 w-0 group-hover:w-full transition-all duration-200"
 									></span></a
@@ -118,22 +118,14 @@
 				</div>
 			</div>
 			<div class="md:col-span-2 lg:col-span-1 pt-16 md:pt-0">
-				<h3 class="text-4xl md:text-5xl font-bold leading-tight">
+				<h3 class="text-4xl md:text-5xl font-bold leading-tight text-white">
 					Lorem ipsum dolor sit adipiscing elit?
 				</h3>
-				<p class="pt-8 text-lg font-bold">
+				<p class="pt-8 text-lg text-white">
 					Maecenas semper neque elit, sed imperdiet tortor posuere ut. Aliquam erat volutpat.
 					Integer diam felis, cursus quis semper eu,
 				</p>
-				<p class="pt-8">
-					Duis eu vehicula arcu, ac pulvinar ante. Fusce sodales ante nec
-					<span class="relative"
-						><span class="z-10 relative">sapien posuere</span><span
-							class="absolute h-2 bg-indigo-200 left-0 bottom-0 w-full transition-all duration-200"
-						></span></span
-					>
-					tristique. Sed vel dui vel diam ultricies accumsan sed quis ligula.
-				</p>
+				
 			</div>
 		</div>
 	</div>

@@ -1,19 +1,16 @@
-<div class="w-full py-12 md:py-20 px-6 bg-gradient-to-r from-white to-indigo-100">
+<div class="w-full py-12 md:py-20 px-6">
 	<section class="container mx-auto">
 		<div class="grid grid-flow-row lg:grid-cols-2 gap-10 md:gap-12">
 			<div class="col-span-1">
-				<span class="text-indigo-500 uppercase tracking-wider font-bold text-sm inline-block mb-2"
-					>Contact</span
-				>
-				<h2 class="text-2xl md:text-6xl font-extrabold leading-none">
-					Still have<br />a
+
+				<h2 class="text-2xl md:text-6xl font-extrabold leading-none text-white">
+					Contact now<br />to book
 					<span class="relative"
-						><span class="z-10 relative">question?</span><span
+						><span class="z-10 relative text-black">your tour</span><span
 							class="absolute w-full h-6 bg-indigo-300 left-0 bottom-0"
 						></span></span
 					>
 				</h2>
-				<p class="pt-6 text-gray-600 text-lg">Ask us about anything or just say hi!</p>
 			</div>
 			<div class="col-span-1">
 				<div class="grid grid-flow-row sm:grid-cols-2 gap-4">
@@ -43,28 +40,66 @@
 					></textarea>
 				</div>
 				<div class="pt-6">
-					<button
-						class="group rounded text-center transition-colors duration-150 bg-indigo-500 text-white hover:bg-indigo-600 h-16 py-4 px-8 text-md font-bold"
-					>
-						Send
-						<svg
-							xmlns="http://www.w3.org/2000/svg"
-							width="24"
-							height="24"
-							viewBox="0 0 24 24"
-							fill="none"
-							stroke="currentColor"
-							stroke-width="2"
-							stroke-linecap="round"
-							stroke-linejoin="round"
-							class="inline-block ml-2 align-middle"
-						>
-							<line x1="22" y1="2" x2="11" y2="13"></line>
-							<polygon points="22 2 15 22 11 13 2 9 22 2"></polygon>
-						</svg>
-					</button>
+					<button class="button"> Send </button>
 				</div>
 			</div>
 		</div>
 	</section>
 </div>
+
+<style>
+	.button {
+		position: relative;
+		width: 130px;
+		height: 50px;
+		background-color: #000;
+		display: flex;
+		align-items: center;
+		color: white;
+		flex-direction: column;
+		justify-content: center;
+		border: none;
+		padding: 12px;
+		gap: 12px;
+		border-radius: 8px;
+		cursor: pointer;
+	}
+
+	.button::before {
+		content: '';
+		position: absolute;
+		inset: 0;
+		left: -4px;
+		top: -1px;
+		margin: auto;
+		width: 138px;
+		height: 58px;
+		border-radius: 10px;
+		background: linear-gradient(-45deg, #e81cff 0%, #40c9ff 100%);
+		z-index: -10;
+		pointer-events: none;
+		transition: all 0.6s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+	}
+
+	.button::after {
+		content: '';
+		z-index: -1;
+		position: absolute;
+		inset: 0;
+		background: linear-gradient(-45deg, #fc00ff 0%, #00dbde 100%);
+		transform: translate3d(0, 0, 0) scale(0.95);
+		filter: blur(20px);
+	}
+
+	.button:hover::after {
+		filter: blur(30px);
+	}
+
+	.button:hover::before {
+		transform: rotate(-180deg);
+	}
+
+	.button:active::before {
+		scale: 0.7;
+	}
+</style>

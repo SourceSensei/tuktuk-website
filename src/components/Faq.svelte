@@ -2,7 +2,7 @@
 	<section class="container mx-auto">
 		<div class="flex flex-col items-center">
 			<div class="text-center">
-				<h2 class="text-2xl md:text-4xl font-bold leading-tight max-w-xl mx-auto relative z-10">
+				<h2 class="text-2xl md:text-4xl font-bold leading-tight max-w-xl mx-auto relative z-10 text-white">
 					FAQ
 				</h2>
 				<hr class="border-indigo-500 border-t-2 mt-4 w-40" />
@@ -17,7 +17,7 @@
 								class="bg-indigo-500 block h-1 w-4 absolute transform transition-transform duration-500 rotate-90"
 							></span></span
 						>
-						<h3 class="inline-block font-semibold text-lg text-left">
+						<h3 class="inline-block font-semibold text-lg text-left text-white">
 							Lorem ipsum dolor sit amet, consectetur adipiscing elit?
 						</h3>
 					</button>
@@ -42,7 +42,7 @@
 								class="bg-indigo-500 block h-1 w-4 absolute transform transition-transform duration-500 rotate-90"
 							></span></span
 						>
-						<h3 class="inline-block font-semibold text-lg text-left">
+						<h3 class="inline-block font-semibold text-lg text-left text-white">
 							Nullam at scelerisque lectus. Duis eu vehicula arcu, ac pulvinar ante?
 						</h3>
 					</button>
@@ -68,7 +68,7 @@
 								class="bg-indigo-500 block h-1 w-4 absolute transform transition-transform duration-500 rotate-90"
 							></span></span
 						>
-						<h3 class="inline-block font-semibold text-lg text-left">
+						<h3 class="inline-block font-semibold text-lg text-left text-white">
 							Fusce sodales ante nec sapien posuere tristique?
 						</h3>
 					</button>
@@ -93,7 +93,7 @@
 								class="bg-indigo-500 block h-1 w-4 absolute transform transition-transform duration-500 rotate-90"
 							></span></span
 						>
-						<h3 class="inline-block font-semibold text-lg text-left">
+						<h3 class="inline-block font-semibold text-lg text-left text-white">
 							Maecenas accumsan, ex convallis consectetur vulputate, est est fringilla elit, ut
 							consectetur sem diam vitae erat?
 						</h3>
@@ -128,7 +128,7 @@
 								class="bg-indigo-500 block h-1 w-4 absolute transform transition-transform duration-500 rotate-90"
 							></span></span
 						>
-						<h3 class="inline-block font-semibold text-lg text-left">
+						<h3 class="inline-block font-semibold text-lg text-left text-white">
 							Sed commodo volutpat justo, eu lobortis diam eleifend a?
 						</h3>
 					</button>

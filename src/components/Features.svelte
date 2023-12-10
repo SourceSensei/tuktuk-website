@@ -2,14 +2,11 @@
 	<section class="container mx-auto">
 		<div class="flex flex-col items-center">
 			<div class="text-center">
-				<span
-					class="bg-indigo-300 text-indigo-700 font-bold text-xs uppercase tracking-wider px-3 inline-block rounded-full mb-2"
-					>Feature</span
-				>
-				<h2 class="text-2xl md:text-4xl font-bold leading-tight max-w-xl mx-auto">
+
+				<h2 class="text-2xl md:text-4xl font-bold leading-tight max-w-xl mx-auto text-white">
 					Eagles may soar, but weasels don&#x27;t get sucked into jet engines
 				</h2>
-				<p class="pt-4 text-gray-600 text-lg max-w-2xl mx-auto">
+				<p class="pt-4 text-white text-lg max-w-2xl mx-auto">
 					Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec lacinia metus ut velit
 					congue, nec imperdiet.
 				</p>
@@ -33,8 +30,8 @@
 							<path d="M13.73 21a2 2 0 0 1-3.46 0"></path></svg
 						></span
 					>
-					<h3 class="font-bold text-lg pt-3">Bob Belcher</h3>
-					<p class="text-gray-600 pt-1">
+					<h3 class="font-bold text-lg pt-3">Feature 1</h3>
+					<p class="text-white pt-1">
 						Nulla varius lectus eu orci rutrum egestas. Nullam nec metus sed arcu consectetur
 						rutrum.
 					</p>
@@ -57,8 +54,8 @@
 							<path d="M13.73 21a2 2 0 0 1-3.46 0"></path></svg
 						></span
 					>
-					<h3 class="font-bold text-lg pt-3">Tina Belcher</h3>
-					<p class="text-gray-600 pt-1">
+					<h3 class="font-bold text-lg pt-3">Feature 2</h3>
+					<p class="text-white pt-1">
 						Vivamus luctus neque nec leo venenatis, quis venenatis arcu lobortis. Pellentesque
 						porttitor.
 					</p>
@@ -82,8 +79,8 @@
 							<circle cx="18" cy="16" r="3"></circle></svg
 						></span
 					>
-					<h3 class="font-bold text-lg pt-3">Gene Belcher</h3>
-					<p class="text-gray-600 pt-1">
+					<h3 class="font-bold text-lg pt-3">Feature 3</h3>
+					<p class="text-white pt-1">
 						Sed vulputate cursus dolor, ac dapibus ex interdum vel. Donec tellus enim, sagittis
 						commodo.
 					</p>
@@ -105,8 +102,8 @@
 							<polygon points="13 2 3 14 12 14 11 22 21 10 12 10 13 2"></polygon></svg
 						></span
 					>
-					<h3 class="font-bold text-lg pt-3">Louise Belcher</h3>
-					<p class="text-gray-600 pt-1">
+					<h3 class="font-bold text-lg pt-3">Feature 4</h3>
+					<p class="text-white pt-1">
 						Ut lacinia enim condimentum sodales mattis. Cras id posuere magna, id semper mi.
 					</p>
 				</div>
