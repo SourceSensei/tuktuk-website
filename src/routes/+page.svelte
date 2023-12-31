@@ -5,7 +5,6 @@
 	import Nav from '../components/Nav.svelte';
 	import Hero from '../components/Hero.svelte';
 	import Features from '../components/Features.svelte';
-	import Stats from '../components/Stats.svelte';
 	import Contact from '../components/Contact.svelte';
 	import Footer from '../components/Footer.svelte';
 	import Review from '../components/Review.svelte';
@@ -20,7 +19,6 @@
 <Nav />
 <Hero />
 <About />
-<Stats />
 <Features />
 <Review />
 <Faq />

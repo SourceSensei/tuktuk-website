@@ -1,12 +1,12 @@
 <header
-	class="flex flex-wrap sm:justify-start sm:flex-nowrap w-full text-sm py-4 text-white z-10"
+	class="flex flex-wrap sm:justify-start sm:flex-nowrap w-full text-sm py-4 text-white z-10 bg-zinc-900"
 >
 	<nav
 		class="max-w-[85rem] w-full mx-auto px-4 sm:flex sm:items-center sm:justify-between"
 		aria-label="Global"
 	>
 		<div class="flex items-center justify-between">
-			<a class="flex-none text-xl font-semibold text-slate-100" href="#">Brand</a>
+			<a class="flex-none text-xl font-semibold text-slate-100" href="#">TukTuk</a>
 			<div class="sm:hidden">
 				<button
 					type="button"
@@ -58,19 +58,19 @@
 				<a
 					class="font-medium text-slate-100 dark:focus:outline-none dark:focus:ring-1 dark:focus:ring-gray-600"
 					href="#"
-					aria-current="page">Landing</a
+					aria-current="page">Home</a
 				>
 				<a
 					class="font-medium text-slate-100 dark:focus:outline-none dark:focus:ring-1 dark:focus:ring-gray-600"
-					href="#">Account</a
+					href="#">About</a
 				>
 				<a
 					class="font-medium text-slate-100 dark:focus:outline-none dark:focus:ring-1 dark:focus:ring-gray-600"
-					href="#">Work</a
+					href="#">Discover</a
 				>
 				<a
 					class="font-medium text-slate-100 dark:focus:outline-none dark:focus:ring-1 dark:focus:ring-gray-600"
-					href="#">Blog</a
+					href="#">Book Now</a
 				>
 			</div>
 		</div>

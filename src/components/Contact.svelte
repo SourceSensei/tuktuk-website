@@ -2,12 +2,11 @@
 	<section class="container mx-auto">
 		<div class="grid grid-flow-row lg:grid-cols-2 gap-10 md:gap-12">
 			<div class="col-span-1">
-
 				<h2 class="text-2xl md:text-6xl font-extrabold leading-none text-white">
 					Contact now<br />to book
 					<span class="relative"
-						><span class="z-10 relative text-black">your tour</span><span
-							class="absolute w-full h-6 bg-indigo-300 left-0 bottom-0"
+						><span class="z-10 relative text-white">your tour</span><span
+							class="absolute w-full h-6 left-0 bottom-0"
 						></span></span
 					>
 				</h2>

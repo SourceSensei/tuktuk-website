@@ -2,22 +2,6 @@
 	<div class="container mx-auto">
 		<div class="grid grid-flow-row md:grid-cols-3 lg:grid-cols-2">
 			<div class="grid grid-cols-2 md:block">
-				<svg viewBox="0 0 180 365.13" class="h-24">
-					<g>
-						<polygon
-							points="141.77 0 7.24 131.96 7.24 131.96 101.51 153.03 142.74 0 141.77 0"
-							fill="currentColor"
-						></polygon>
-						<polygon
-							points="125.94 233.78 61.4 213.73 15.45 365.13 16.41 365.13 154.33 247.82 125.94 233.78"
-							fill="currentColor"
-						></polygon>
-						<polygon
-							points="7.24 131.96 0 172.51 154.33 247.82 163.34 181.61 7.24 131.96"
-							fill="currentColor"
-						></polygon>
-					</g>
-				</svg>
 				<div class="md:pt-16">
 					<div class="inline-grid grid-flow-col gap-3">
 						<a
@@ -83,49 +67,7 @@
 							></a
 						>
 					</div>
-					<nav class="pt-6 font-semibold text-sm">
-						<ul>
-							<li class="pt-4">
-								<a href="#" class="group relative text-white"
-									><span class="z-10 hover:text-black relative">About us</span><span
-										class="absolute h-2 bg-indigo-200 left-0 bottom-0 w-0 group-hover:w-full transition-all duration-200"
-									></span></a
-								>
-							</li>
-							<li class="pt-4">
-								<a href="#" class="group relative text-white"
-									><span class="z-10 hover:text-black relative">Careers</span><span
-										class="absolute h-2 bg-indigo-200 left-0 bottom-0 w-0 group-hover:w-full transition-all duration-200"
-									></span></a
-								>
-							</li>
-							<li class="pt-4">
-								<a href="#" class="group relative text-white"
-									><span class="z-10 hover:text-black relative">Terms &amp; Conditions</span><span
-										class="absolute h-2 bg-indigo-200 left-0 bottom-0 w-0 group-hover:w-full transition-all duration-200"
-									></span></a
-								>
-							</li>
-							<li class="pt-4">
-								<a href="#" class="group relative text-white"
-									><span class="z-10 hover:text-black relative">Privacy</span><span
-										class="absolute h-2 bg-indigo-200 left-0 bottom-0 w-0 group-hover:w-full transition-all duration-200"
-									></span></a
-								>
-							</li>
-						</ul>
-					</nav>
 				</div>
-			</div>
-			<div class="md:col-span-2 lg:col-span-1 pt-16 md:pt-0">
-				<h3 class="text-4xl md:text-5xl font-bold leading-tight text-white">
-					Lorem ipsum dolor sit adipiscing elit?
-				</h3>
-				<p class="pt-8 text-lg text-white">
-					Maecenas semper neque elit, sed imperdiet tortor posuere ut. Aliquam erat volutpat.
-					Integer diam felis, cursus quis semper eu,
-				</p>
-				
 			</div>
 		</div>
 	</div>

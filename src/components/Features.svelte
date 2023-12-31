@@ -1,111 +1,131 @@
 <div class="w-full py-12 md:py-20 px-6">
 	<section class="container mx-auto">
 		<div class="flex flex-col items-center">
-			<div class="text-center">
-
+			<div class="text-center mb-10">
 				<h2 class="text-2xl md:text-4xl font-bold leading-tight max-w-xl mx-auto text-white">
-					Eagles may soar, but weasels don&#x27;t get sucked into jet engines
+					Current tours that i am offering:
 				</h2>
-				<p class="pt-4 text-white text-lg max-w-2xl mx-auto">
-					Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec lacinia metus ut velit
-					congue, nec imperdiet.
-				</p>
 			</div>
 			<div class="pt-12 w-full grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-8">
 				<div class="">
-					<span
-						class="rounded-full bg-indigo-300 inline-flex justify-center items-center w-12 h-12 text-indigo-700"
-						><svg
-							xmlns="http://www.w3.org/2000/svg"
-							width="24"
-							height="24"
-							viewBox="0 0 24 24"
-							fill="none"
-							stroke="currentColor"
-							stroke-width="2"
-							stroke-linecap="round"
-							stroke-linejoin="round"
-						>
-							<path d="M18 8A6 6 0 0 0 6 8c0 7-3 9-3 9h18s-3-2-3-9"></path>
-							<path d="M13.73 21a2 2 0 0 1-3.46 0"></path></svg
-						></span
+					<div
+						class="flex flex-col bg-black border shadow-sm rounded-xl dark:shadow-slate-700/[.7]"
 					>
-					<h3 class="font-bold text-lg pt-3">Feature 1</h3>
-					<p class="text-white pt-1">
-						Nulla varius lectus eu orci rutrum egestas. Nullam nec metus sed arcu consectetur
-						rutrum.
-					</p>
+						<div class="p-4 md:p-7">
+							<h3 class="text-lg font-bold text-white">Card title</h3>
+							<p class="mt-2 text-gray-500 dark:text-gray-400">
+								With supporting text below as a natural lead-in to additional content.
+							</p>
+							<a
+								class="mt-3 inline-flex items-center gap-x-1 text-sm font-semibold rounded-lg border border-transparent text-blue-600 hover:text-blue-800 disabled:opacity-50 disabled:pointer-events-none dark:text-blue-500 dark:hover:text-blue-400 dark:focus:outline-none dark:focus:ring-1 dark:focus:ring-gray-600"
+								href="#"
+							>
+								Card link
+								<svg
+									class="flex-shrink-0 w-4 h-4"
+									xmlns="http://www.w3.org/2000/svg"
+									width="24"
+									height="24"
+									viewBox="0 0 24 24"
+									fill="none"
+									stroke="currentColor"
+									stroke-width="2"
+									stroke-linecap="round"
+									stroke-linejoin="round"><path d="m9 18 6-6-6-6" /></svg
+								>
+							</a>
+						</div>
+					</div>
 				</div>
 				<div class="">
-					<span
-						class="rounded-full bg-indigo-300 inline-flex justify-center items-center w-12 h-12 text-indigo-700"
-						><svg
-							xmlns="http://www.w3.org/2000/svg"
-							width="24"
-							height="24"
-							viewBox="0 0 24 24"
-							fill="none"
-							stroke="currentColor"
-							stroke-width="2"
-							stroke-linecap="round"
-							stroke-linejoin="round"
-						>
-							<path d="M18 8A6 6 0 0 0 6 8c0 7-3 9-3 9h18s-3-2-3-9"></path>
-							<path d="M13.73 21a2 2 0 0 1-3.46 0"></path></svg
-						></span
+					<div
+						class="flex flex-col bg-black border shadow-sm rounded-xl dark:shadow-slate-700/[.7]"
 					>
-					<h3 class="font-bold text-lg pt-3">Feature 2</h3>
-					<p class="text-white pt-1">
-						Vivamus luctus neque nec leo venenatis, quis venenatis arcu lobortis. Pellentesque
-						porttitor.
-					</p>
+						<div class="p-4 md:p-7">
+							<h3 class="text-lg font-bold text-white">Card title</h3>
+							<p class="mt-2 text-gray-500 dark:text-gray-400">
+								With supporting text below as a natural lead-in to additional content.
+							</p>
+							<a
+								class="mt-3 inline-flex items-center gap-x-1 text-sm font-semibold rounded-lg border border-transparent text-blue-600 hover:text-blue-800 disabled:opacity-50 disabled:pointer-events-none dark:text-blue-500 dark:hover:text-blue-400 dark:focus:outline-none dark:focus:ring-1 dark:focus:ring-gray-600"
+								href="#"
+							>
+								Card link
+								<svg
+									class="flex-shrink-0 w-4 h-4"
+									xmlns="http://www.w3.org/2000/svg"
+									width="24"
+									height="24"
+									viewBox="0 0 24 24"
+									fill="none"
+									stroke="currentColor"
+									stroke-width="2"
+									stroke-linecap="round"
+									stroke-linejoin="round"><path d="m9 18 6-6-6-6" /></svg
+								>
+							</a>
+						</div>
+					</div>
 				</div>
 				<div class="">
-					<span
-						class="rounded-full bg-indigo-300 inline-flex justify-center items-center w-12 h-12 text-indigo-700"
-						><svg
-							xmlns="http://www.w3.org/2000/svg"
-							width="24"
-							height="24"
-							viewBox="0 0 24 24"
-							fill="none"
-							stroke="currentColor"
-							stroke-width="2"
-							stroke-linecap="round"
-							stroke-linejoin="round"
-						>
-							<path d="M9 18V5l12-2v13"></path>
-							<circle cx="6" cy="18" r="3"></circle>
-							<circle cx="18" cy="16" r="3"></circle></svg
-						></span
+					<div
+						class="flex flex-col bg-black border shadow-sm rounded-xl dark:shadow-slate-700/[.7]"
 					>
-					<h3 class="font-bold text-lg pt-3">Feature 3</h3>
-					<p class="text-white pt-1">
-						Sed vulputate cursus dolor, ac dapibus ex interdum vel. Donec tellus enim, sagittis
-						commodo.
-					</p>
+						<div class="p-4 md:p-7">
+							<h3 class="text-lg font-bold text-white">Card title</h3>
+							<p class="mt-2 text-gray-500 dark:text-gray-400">
+								With supporting text below as a natural lead-in to additional content.
+							</p>
+							<a
+								class="mt-3 inline-flex items-center gap-x-1 text-sm font-semibold rounded-lg border border-transparent text-blue-600 hover:text-blue-800 disabled:opacity-50 disabled:pointer-events-none dark:text-blue-500 dark:hover:text-blue-400 dark:focus:outline-none dark:focus:ring-1 dark:focus:ring-gray-600"
+								href="#"
+							>
+								Card link
+								<svg
+									class="flex-shrink-0 w-4 h-4"
+									xmlns="http://www.w3.org/2000/svg"
+									width="24"
+									height="24"
+									viewBox="0 0 24 24"
+									fill="none"
+									stroke="currentColor"
+									stroke-width="2"
+									stroke-linecap="round"
+									stroke-linejoin="round"><path d="m9 18 6-6-6-6" /></svg
+								>
+							</a>
+						</div>
+					</div>
 				</div>
 				<div class="">
-					<span
-						class="rounded-full bg-indigo-300 inline-flex justify-center items-center w-12 h-12 text-indigo-700"
-						><svg
-							xmlns="http://www.w3.org/2000/svg"
-							width="24"
-							height="24"
-							viewBox="0 0 24 24"
-							fill="none"
-							stroke="currentColor"
-							stroke-width="2"
-							stroke-linecap="round"
-							stroke-linejoin="round"
-						>
-							<polygon points="13 2 3 14 12 14 11 22 21 10 12 10 13 2"></polygon></svg
-						></span
+					<div
+						class="flex flex-col bg-black border shadow-sm rounded-xl dark:shadow-slate-700/[.7]"
 					>
-					<h3 class="font-bold text-lg pt-3">Feature 4</h3>
-					<p class="text-white pt-1">
-						Ut lacinia enim condimentum sodales mattis. Cras id posuere magna, id semper mi.
-					</p>
+						<div class="p-4 md:p-7">
+							<h3 class="text-lg font-bold text-white">Card title</h3>
+							<p class="mt-2 text-gray-500 dark:text-gray-400">
+								With supporting text below as a natural lead-in to additional content.
+							</p>
+							<a
+								class="mt-3 inline-flex items-center gap-x-1 text-sm font-semibold rounded-lg border border-transparent text-blue-600 hover:text-blue-800 disabled:opacity-50 disabled:pointer-events-none dark:text-blue-500 dark:hover:text-blue-400 dark:focus:outline-none dark:focus:ring-1 dark:focus:ring-gray-600"
+								href="#"
+							>
+								Card link
+								<svg
+									class="flex-shrink-0 w-4 h-4"
+									xmlns="http://www.w3.org/2000/svg"
+									width="24"
+									height="24"
+									viewBox="0 0 24 24"
+									fill="none"
+									stroke="currentColor"
+									stroke-width="2"
+									stroke-linecap="round"
+									stroke-linejoin="round"><path d="m9 18 6-6-6-6" /></svg
+								>
+							</a>
+						</div>
+					</div>
 				</div>
 			</div>
 		</div>
